@@ -13,7 +13,7 @@ public:
 
 	void Update(float deltaTime);
 	void LateUpdate(float deltaTime);
-	void Draw(Window& window);
+	void Draw(Window& window); 
 
 	void ProcessNewObjects(); // 1
 

@@ -164,6 +164,7 @@
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="Input.cpp" />
     <ClCompile Include="Object.cpp" />
+    <ClCompile Include="ObjectCollection.cpp" />
     <ClCompile Include="prototypeEngine.cpp" />
     <ClCompile Include="ResourceAllocator.cpp" />
     <ClCompile Include="SceneGame.cpp" />
@@ -187,6 +188,7 @@
     <ClInclude Include="Game.hpp" />
     <ClInclude Include="Input.hpp" />
     <ClInclude Include="Object.hpp" />
+    <ClInclude Include="ObjectCollection.hpp" />
     <ClInclude Include="ResourceAllocator.hpp" />
     <ClInclude Include="Scene.hpp" />
     <ClInclude Include="SceneGame.hpp" />
